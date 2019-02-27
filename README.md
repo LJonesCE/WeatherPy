@@ -2,10 +2,6 @@
 UCF Data Analytics and Visualization Boot Camp: Python API
 # Unit 6 | Assignment - What's the Weather Like?
 
-## Background
-
-## WeatherPy
-
 ## Observable Trends
 
 * Temperature (F) vs. Latitude -As latitude increases the temperature decreases. 
